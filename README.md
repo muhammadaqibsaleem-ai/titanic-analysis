@@ -12,9 +12,9 @@ https://www.kaggle.com/competitions/titanic
 - Answered 5 questions using charts
 
 ## Key Findings
-- Overall survival rate: write your number here
-- Women survived at: write your number here, men at: write your number here
-- Survival by class (1, 2, 3): write your numbers here
+- Overall survival rate: 38.4%
+- Women survived at:  74.2% compared to 18.9% for men
+- Survival by class (1, 2, 3): Class 1 = 63.0%, Class 2 = 47.3%, Class 3 = 24.2%
 
 ## Tools
 Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
